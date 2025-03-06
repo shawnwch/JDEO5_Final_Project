@@ -3,6 +3,7 @@
 A Data Engineering and Data Analysis project done in a group of 3, based on Historical Data from Olist (a Brazillian E-Commerce website).
 - We created a full ETL Pipeline completed to database in Azure Cloud
 - Data Analysis on the E-commerce data to find and increase sources of revenue to the company
+- Presentation in website format at https://medium.com/@shawnweech/jde05-junior-data-engineering-project-2-bfe4e7eb39f0
 
 ### In this Data Engineering and Data Analysis project, we had a few Key Objectives:
 
@@ -16,7 +17,7 @@ A Data Engineering and Data Analysis project done in a group of 3, based on Hist
 - “Which States have the highest Revenue per Customer (Sum of Payment Value / Unique Customer ID)?
 
 
-### python scripts for Data Cleaning (with subsequent ingestion into Azure using Databricks and a local PostgreSQL backup)
+### Python scripts for Data Cleaning (with subsequent ingestion into Azure using Databricks and a local PostgreSQL backup)
 Here would be further explanation of the Data Cleaning steps done using Python scripts:
 
 - Removed duplicates using unidecode library
